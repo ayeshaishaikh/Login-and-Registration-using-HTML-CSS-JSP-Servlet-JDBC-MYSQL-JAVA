@@ -1,0 +1,2 @@
+# Login-and-Registration-using-HTML-CSS-JSP-Servlet-JDBC-MYSQL-JAVA
+Building a responsive and stylish login page with HTML and CSS.server-side logic using Java Servlets to handle user authentication. MySQL database to store user credentials securely. JDBC connection for seamless  communication between the web application and the  database. Implementing user registration functionality with data validation 
